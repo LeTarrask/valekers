@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+:root {
+  --main-color: #00d5ff;
+}
+
+.scrollable-section {
+  height: 100vh;
+  overflow-y: auto;
+  background-color: var(--main-color);
+}
+
+.btn-primary {
+  background-color: var(--main-color);
+  border-color: var(--main-color);
+}
+
+.hero {
+  min-height: 100vh; /* This will make the hero section full-screen */
+  background: url('https://via.placeholder.com/1920') no-repeat center center; /* Replace with your image URL */
+  background-size: cover; /* This will scale the background image to be as large as possible */
+}
+
+.container-md {
+  max-width: 800px; /* This will limit the width of the text to 800px on larger screens */
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-body-flex {
+  flex: 1; /* This will make the card body fill the available space */
+  display: flex;
+  flex-direction: column;
+}
+
+.card-text-scrollable {
+  flex-grow: 1;
+  overflow-y: auto;
+  max-height: 15em; /* Adjust based on your line-height to match approximately 15 lines */
+}
+
+.card-footer {
+  margin-top: auto;
+}
