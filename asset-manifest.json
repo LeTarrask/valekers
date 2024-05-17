@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/valekers/static/css/main.74d71a8e.css",
-    "main.js": "/valekers/static/js/main.5e9345ac.js",
+    "main.js": "/valekers/static/js/main.20616c40.js",
     "static/js/453.a8211907.chunk.js": "/valekers/static/js/453.a8211907.chunk.js",
     "index.html": "/valekers/index.html",
     "main.74d71a8e.css.map": "/valekers/static/css/main.74d71a8e.css.map",
-    "main.5e9345ac.js.map": "/valekers/static/js/main.5e9345ac.js.map",
+    "main.20616c40.js.map": "/valekers/static/js/main.20616c40.js.map",
     "453.a8211907.chunk.js.map": "/valekers/static/js/453.a8211907.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74d71a8e.css",
-    "static/js/main.5e9345ac.js"
+    "static/js/main.20616c40.js"
   ]
 }
