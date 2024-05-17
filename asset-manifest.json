@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.74d71a8e.css",
-    "main.js": "/my-app/static/js/main.15ca63ed.js",
-    "static/js/453.a8211907.chunk.js": "/my-app/static/js/453.a8211907.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.74d71a8e.css.map": "/my-app/static/css/main.74d71a8e.css.map",
-    "main.15ca63ed.js.map": "/my-app/static/js/main.15ca63ed.js.map",
-    "453.a8211907.chunk.js.map": "/my-app/static/js/453.a8211907.chunk.js.map"
+    "main.css": "/valekers/static/css/main.74d71a8e.css",
+    "main.js": "/valekers/static/js/main.e475673a.js",
+    "static/js/453.a8211907.chunk.js": "/valekers/static/js/453.a8211907.chunk.js",
+    "index.html": "/valekers/index.html",
+    "main.74d71a8e.css.map": "/valekers/static/css/main.74d71a8e.css.map",
+    "main.e475673a.js.map": "/valekers/static/js/main.e475673a.js.map",
+    "453.a8211907.chunk.js.map": "/valekers/static/js/453.a8211907.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74d71a8e.css",
-    "static/js/main.15ca63ed.js"
+    "static/js/main.e475673a.js"
   ]
 }
