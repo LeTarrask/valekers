@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/valekers/static/css/main.74d71a8e.css",
-    "main.js": "/valekers/static/js/main.d5104835.js",
+    "main.css": "/valekers/static/css/main.e1557083.css",
+    "main.js": "/valekers/static/js/main.931f40ce.js",
     "static/js/453.a8211907.chunk.js": "/valekers/static/js/453.a8211907.chunk.js",
     "index.html": "/valekers/index.html",
-    "main.74d71a8e.css.map": "/valekers/static/css/main.74d71a8e.css.map",
-    "main.d5104835.js.map": "/valekers/static/js/main.d5104835.js.map",
+    "main.e1557083.css.map": "/valekers/static/css/main.e1557083.css.map",
+    "main.931f40ce.js.map": "/valekers/static/js/main.931f40ce.js.map",
     "453.a8211907.chunk.js.map": "/valekers/static/js/453.a8211907.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74d71a8e.css",
-    "static/js/main.d5104835.js"
+    "static/css/main.e1557083.css",
+    "static/js/main.931f40ce.js"
   ]
 }
