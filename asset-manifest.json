@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/valekers/static/css/main.b70dabd2.css",
-    "main.js": "/valekers/static/js/main.808d139b.js",
+    "main.css": "/valekers/static/css/main.2928edf9.css",
+    "main.js": "/valekers/static/js/main.24a8a4ed.js",
     "static/js/453.a8211907.chunk.js": "/valekers/static/js/453.a8211907.chunk.js",
     "static/media/dm-sans-v11-latin-500.woff2": "/valekers/static/media/dm-sans-v11-latin-500.82c42c7339eddd68c79d.woff2",
     "static/media/dm-sans-v11-latin-700.woff2": "/valekers/static/media/dm-sans-v11-latin-700.6261bc7f59cc2e5f8f29.woff2",
     "index.html": "/valekers/index.html",
-    "main.b70dabd2.css.map": "/valekers/static/css/main.b70dabd2.css.map",
-    "main.808d139b.js.map": "/valekers/static/js/main.808d139b.js.map",
+    "main.2928edf9.css.map": "/valekers/static/css/main.2928edf9.css.map",
+    "main.24a8a4ed.js.map": "/valekers/static/js/main.24a8a4ed.js.map",
     "453.a8211907.chunk.js.map": "/valekers/static/js/453.a8211907.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b70dabd2.css",
-    "static/js/main.808d139b.js"
+    "static/css/main.2928edf9.css",
+    "static/js/main.24a8a4ed.js"
   ]
 }
