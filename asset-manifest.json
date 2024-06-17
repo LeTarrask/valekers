@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valekers/static/css/main.1c73351c.css",
-    "main.js": "/valekers/static/js/main.c2cdc068.js",
+    "main.js": "/valekers/static/js/main.757cd393.js",
     "static/js/453.a8211907.chunk.js": "/valekers/static/js/453.a8211907.chunk.js",
     "static/media/capa_valekers.jpg": "/valekers/static/media/capa_valekers.4cd0382704041c83b180.jpg",
     "static/media/background_transparente.png": "/valekers/static/media/background_transparente.2844dff076f28b3af4d3.png",
@@ -13,11 +13,11 @@
     "static/media/dm-sans-v11-latin-700.woff2": "/valekers/static/media/dm-sans-v11-latin-700.6261bc7f59cc2e5f8f29.woff2",
     "index.html": "/valekers/index.html",
     "main.1c73351c.css.map": "/valekers/static/css/main.1c73351c.css.map",
-    "main.c2cdc068.js.map": "/valekers/static/js/main.c2cdc068.js.map",
+    "main.757cd393.js.map": "/valekers/static/js/main.757cd393.js.map",
     "453.a8211907.chunk.js.map": "/valekers/static/js/453.a8211907.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c73351c.css",
-    "static/js/main.c2cdc068.js"
+    "static/js/main.757cd393.js"
   ]
 }
