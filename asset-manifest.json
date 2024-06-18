@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/valekers/static/css/main.1c73351c.css",
-    "main.js": "/valekers/static/js/main.757cd393.js",
+    "main.css": "/valekers/static/css/main.7aed909d.css",
+    "main.js": "/valekers/static/js/main.3687caae.js",
     "static/js/453.a8211907.chunk.js": "/valekers/static/js/453.a8211907.chunk.js",
     "static/media/capa_valekers.jpg": "/valekers/static/media/capa_valekers.4cd0382704041c83b180.jpg",
     "static/media/background_transparente.png": "/valekers/static/media/background_transparente.2844dff076f28b3af4d3.png",
@@ -9,15 +9,16 @@
     "static/media/banner_premiovalekers.jpg": "/valekers/static/media/banner_premiovalekers.771947a655cdc683bda5.jpg",
     "static/media/banner_newsletters.jpg": "/valekers/static/media/banner_newsletters.7727e1660fae40abc6aa.jpg",
     "static/media/banner_leiturasimperdiveis.jpg": "/valekers/static/media/banner_leiturasimperdiveis.406ee79ecb03e06fc23a.jpg",
+    "static/media/LOGO_home.png": "/valekers/static/media/LOGO_home.7968b994a8d38ff81ec6.png",
     "static/media/dm-sans-v11-latin-500.woff2": "/valekers/static/media/dm-sans-v11-latin-500.82c42c7339eddd68c79d.woff2",
     "static/media/dm-sans-v11-latin-700.woff2": "/valekers/static/media/dm-sans-v11-latin-700.6261bc7f59cc2e5f8f29.woff2",
     "index.html": "/valekers/index.html",
-    "main.1c73351c.css.map": "/valekers/static/css/main.1c73351c.css.map",
-    "main.757cd393.js.map": "/valekers/static/js/main.757cd393.js.map",
+    "main.7aed909d.css.map": "/valekers/static/css/main.7aed909d.css.map",
+    "main.3687caae.js.map": "/valekers/static/js/main.3687caae.js.map",
     "453.a8211907.chunk.js.map": "/valekers/static/js/453.a8211907.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c73351c.css",
-    "static/js/main.757cd393.js"
+    "static/css/main.7aed909d.css",
+    "static/js/main.3687caae.js"
   ]
 }
